@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Ardian Domagała\PESEL\bin\Debug\net5.0\PESEL.exe
+C:\Users\user\Documents\Ardian Domagała\PESEL\bin\Debug\net5.0\PESEL.deps.json
+C:\Users\user\Documents\Ardian Domagała\PESEL\bin\Debug\net5.0\PESEL.runtimeconfig.json
+C:\Users\user\Documents\Ardian Domagała\PESEL\bin\Debug\net5.0\PESEL.runtimeconfig.dev.json
+C:\Users\user\Documents\Ardian Domagała\PESEL\bin\Debug\net5.0\PESEL.dll
+C:\Users\user\Documents\Ardian Domagała\PESEL\bin\Debug\net5.0\ref\PESEL.dll
+C:\Users\user\Documents\Ardian Domagała\PESEL\bin\Debug\net5.0\PESEL.pdb
+C:\Users\user\Documents\Ardian Domagała\PESEL\obj\Debug\net5.0\PESEL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Ardian Domagała\PESEL\obj\Debug\net5.0\PESEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Ardian Domagała\PESEL\obj\Debug\net5.0\PESEL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Ardian Domagała\PESEL\obj\Debug\net5.0\PESEL.AssemblyInfo.cs
+C:\Users\user\Documents\Ardian Domagała\PESEL\obj\Debug\net5.0\PESEL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Ardian Domagała\PESEL\obj\Debug\net5.0\PESEL.dll
+C:\Users\user\Documents\Ardian Domagała\PESEL\obj\Debug\net5.0\ref\PESEL.dll
+C:\Users\user\Documents\Ardian Domagała\PESEL\obj\Debug\net5.0\PESEL.pdb
+C:\Users\user\Documents\Ardian Domagała\PESEL\obj\Debug\net5.0\PESEL.genruntimeconfig.cache
